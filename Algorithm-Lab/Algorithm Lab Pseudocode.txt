@@ -1,0 +1,14 @@
+Algorithm Lab Pseudocode 
+
+Start
+Input Array
+Initialize Sum = 0
+Initialize Count = 0
+Loop through array elements 
+	User Input Array Element = num
+		if num is positive 
+			Add count increment 
+			Add element value num + sum = total sum 
+get average = total sum / count
+Output Average 
+End 
