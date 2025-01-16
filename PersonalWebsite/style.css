@@ -1,0 +1,32 @@
+h1,h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+footer{
+    background-color: rgb(144, 199, 230);
+    
+}
+h1,footer{
+    text-align: center;
+    background-image: url("clouds.png");
+}
+h1{
+    border-style: ridge;
+    border-width: thick;
+    border-radius: 15px;
+    border-color: aliceblue;
+}
+body{
+    background-image: url("clouds.png");
+    background-color: rgb(144, 199, 230,0.3) ;
+    
+}
+div{
+    border: 5px blueviolet;
+
+}
+ 
